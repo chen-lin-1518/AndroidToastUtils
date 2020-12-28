@@ -1,0 +1,3 @@
+include ':utilsToast'
+include ':app'
+rootProject.name = "AndriodToastUtils"
